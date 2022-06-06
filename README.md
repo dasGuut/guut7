@@ -4,7 +4,7 @@ import mysql.connector
 mydb = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="ENTER YOURS"
+    password="root"
 )
 
 mycursor = mydb.cursor()
@@ -17,7 +17,7 @@ import mysql.connector
 mydb = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="ENTER YOURS"
+    password="root"
 )
 
 mycursor = mydb.cursor()
@@ -30,7 +30,7 @@ import mysql.connector
 mydb = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="ENTER YOURS"
+    password="root"
 )
 
 mycursor = mydb.cursor()
@@ -45,7 +45,7 @@ import mysql.connector
 mydb = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="ENTER YOURS"
+    password="root"
 )
 
 mycursor = mydb.cursor()
@@ -73,7 +73,7 @@ import mysql.connector
 mydb = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="ENTER YOURS"
+    password="root"
 )
 
 mycursor = mydb.cursor()
@@ -92,7 +92,7 @@ import mysql.connector
 mydb = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="ENTER YOURS"
+    password="root"
 )
 
 mycursor = mydb.cursor()
@@ -110,7 +110,7 @@ import mysql.connector
 mydb = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="ENTER YOURS"
+    password="root"
 )
 
 mycursor = mydb.cursor()
@@ -128,7 +128,7 @@ import mysql.connector
 mydb = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="ENTER YOURS"
+    password="root"
 )
 
 mycursor = mydb.cursor()
